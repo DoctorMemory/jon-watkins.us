@@ -1,0 +1,65 @@
+body, html, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, fieldset, input {margin:0pt;
+	padding:0pt;
+	}
+	
+	ul {
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+}
+
+a img, img {
+border:0px none;
+}
+
+body {
+background-color:#FFFFFF;
+border:0pt none;
+color:#444444;
+font-family:"Arial","Verdana","Tahoma",Serif;
+font-size:15px;
+text-align:center;
+}
+
+
+h1, h2 {
+color:#A5A5A5;
+font-size:31px;
+font-weight:bold;
+letter-spacing:-0.7px;
+line-height:30px;
+margin:0px 0pt 6px;
+}
+h3 {
+color:#A5A5A5;
+font-size:24px;
+font-weight:bold;
+letter-spacing:-0.7px;
+line-height:31px;
+margin:0px 0pt 6px;
+}
+
+h3 a {
+color:#A5A5A5;
+font-size:31px;
+font-weight:bold;
+letter-spacing:-0.7px;
+line-height:31px;
+margin:0px 0pt 24px;
+text-decoration:none;
+}
+
+h3 a:hover {
+color:#000000;
+font-size:31px;
+font-weight:bold;
+letter-spacing:-0.7px;
+line-height:31px;
+margin:0px 0pt 24px;
+text-decoration:none;
+}
+
+h4 {
+color:#6E6E6E;
+font-size:18px;
+font-weight:normal;}
